@@ -1,8 +1,8 @@
 # Bài Hello World - Mạng cảm biến
  
-Sinh viên: <Nguyễn Cao Quốc Huy>
-MSSV: <N23DCCI032>
-Lớp: <D23CQCI01-N>
+Sinh viên: Nguyễn Cao Quốc Huy
+MSSV: N23DCCI032
+Lớp: D23CQCI01-N
  
 ## Mô tả
  
